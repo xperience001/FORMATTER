@@ -1,16 +1,21 @@
 {
-  "name": "account",
+  "name": "formatter",
   "version": "1.0.0",
-  "description": "account",
+  "description": "number formatter",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "author": "abass",
+  "keywords": [
+    "node",
+    "module",
+    "npm"
+  ],
+  "author": "Abass Ade",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"

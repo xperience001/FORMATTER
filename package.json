@@ -1,5 +1,5 @@
 {
-  "name": "formatter",
+  "name": "@abassade/formatter",
   "version": "1.0.0",
   "description": "number formatter",
   "main": "index.js",

@@ -5,13 +5,13 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @abassade/FORMATTER`
+  `npm install @abassade/formatter`
 
 ## Usage
 
-    var numFormatter = require('@abassade/FORMATTER');
+    const numFormatter = require('@abassade/formatter');
 
-    var formattedNum = numFormatter(35666);
+    const formattedNum = numFormatter(35666);
   
   
   Output should be `35,666`
